@@ -6,3 +6,5 @@ List of Avionics cyber security resources.
 [Threats to aviation](https://www.sciencedirect.com/science/article/abs/pii/S0167404821003400)
 
 [CVE-2022-36158 &  CVE-2022-36159](https://www.securityweek.com/passengers-exposed-hacking-vulnerabilities-airplane-wi-fi-devices/)
+
+[Cyber-Security Challenges in Aviation Industry](https://arxiv.org/pdf/2107.04910.pdf)
