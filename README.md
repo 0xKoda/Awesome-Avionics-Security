@@ -1,4 +1,5 @@
-![image](https://github.com/0xKoda/Awesome-Avionics-Security/assets/88812262/17b84356-7a57-4185-99dd-3ac778ca8146)
+![image](https://github.com/0xKoda/Awesome-Avionics-Security/assets/88812262/8b047da4-9958-47cd-be4f-abaaa624a9fb)
+
 
 # Awesome-Avionics-Security
 
