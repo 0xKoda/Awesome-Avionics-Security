@@ -15,4 +15,6 @@ A curated list of avionics cybersecurity resources, focusing on recent vulnerabi
 
 5. **[Bugs Found in Contec Airplane WiFi Devices](https://www.spiceworks.com/it-security/vulnerability-management/news/contec-airplane-wifi-wireless-device-vulnerabilities/)** - An article focusing on specific vulnerabilities discovered in Contec airplane Wi-Fi devices, emphasizing the ongoing security challenges.
 
+6. **[CVE2019-9019](https://sensorstechforum.com/cve-2019-9019-british-airways-entertainment-system/)** - Priviledge escalation in BA 777-ER Aircraft entertainment system located in the component USB handler. 
+
 This list aims to provide a broad overview of the current state of cybersecurity in the avionics sector, offering valuable insights for professionals and enthusiasts alike.
